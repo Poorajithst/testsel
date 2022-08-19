@@ -12,6 +12,9 @@ TestNG
 log4j
 Extent Reports
 
+
+Vaaimaiyin theadal
+
 ### Steps to clone execute the tests
 ```
 git clone https://github.com/naveenanimation20/PageObjectModel
